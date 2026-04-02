@@ -29,7 +29,7 @@
   // ── CSS variables (override via :root or cfg.cssVars) ──────────────────────
   var CSS_VARS = Object.assign({
     '--gr-font-family'    : 'inherit',
-    '--gr-columns'        : 'repeat(auto-fit, minmax(280px, 360px))',
+    '--gr-columns'        : '280px',
     '--gr-gap'            : '1.25rem',
     '--gr-card-bg'        : '#ffffff',
     '--gr-card-radius'    : '12px',
@@ -57,7 +57,8 @@
     var css = [
       '#' + CONTAINER_ID + '{' + rootVars + ';font-family:var(--gr-font-family)}',
 
-      '.gr-grid{display:grid;grid-template-columns:var(--gr-columns);gap:var(--gr-gap);margin:0;padding:0;list-style:none;justify-content:center}',
+      '.gr-grid{display:flex;flex-wrap:wrap;justify-content:center;gap:var(--gr-gap);margin:0;padding:0;list-style:none}',
+      '.gr-card{width:var(--gr-columns);flex-shrink:0;flex-grow:0}',
 
       '.gr-card{background:var(--gr-card-bg);border-radius:var(--gr-card-radius);box-shadow:var(--gr-card-shadow);padding:var(--gr-card-padding);display:flex;flex-direction:column;gap:.75rem;box-sizing:border-box}',
 
