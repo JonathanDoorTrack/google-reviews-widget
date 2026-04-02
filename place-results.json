@@ -1,0 +1,317 @@
+{
+  "places": [
+    {
+      "id": "ChIJdYq33C28MioRACZqkpRt4eY",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Westfield Carousel",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ_9RAs3i-MioRL6jCm42o-Jc",
+      "types": [
+        "association_or_organization",
+        "local_government_office",
+        "government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Department of Transport and Major Infrastructure Service Centre, Cannington",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJs5vaHCy8MioRIsz0ymC87aQ",
+      "types": [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "HOYTS Carousel",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJAX9GijG8MioRf-VYkpawUFw",
+      "types": [
+        "home_improvement_store",
+        "garden_center",
+        "hardware_store",
+        "furniture_store",
+        "building_materials_store",
+        "home_goods_store",
+        "general_contractor",
+        "service",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Bunnings Cannington",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJr-PAxS68MioRhytQxvBs_qo",
+      "types": [
+        "supermarket",
+        "grocery_store",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "NP Supermarket",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ3UwBlKS_MioRjlmA2Peh1w4",
+      "types": [
+        "supermarket",
+        "grocery_store",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Spudshed Thornlie",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ-erj3iW8MioRuyHr5sLeI3I",
+      "types": [
+        "library",
+        "sports_complex",
+        "sports_activity_location",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Cannington Leisureplex",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ3fsj7Ca-MioR9EOQTs3tpi4",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Maddington Central",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJadWMCS28MioRE1I40vLQeLw",
+      "types": [
+        "supplier",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Officeworks Cannington",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJJ-X4xJm9MioRoHA3qkIN6p8",
+      "types": [
+        "pharmacy",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Chemist Warehouse Cannington",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ0bWbXyO-MioRDgx_LvWiIAo",
+      "types": [
+        "home_improvement_store",
+        "garden_center",
+        "hardware_store",
+        "furniture_store",
+        "building_materials_store",
+        "home_goods_store",
+        "general_contractor",
+        "service",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Bunnings Maddington",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJUcGkFGe-MioRAVFrkatZ0Lc",
+      "types": [
+        "park",
+        "playground",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Mills Park",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJOYFG_TG8MioRJTZ767MLsik",
+      "types": [
+        "department_store",
+        "womens_clothing_store",
+        "furniture_store",
+        "toy_store",
+        "home_improvement_store",
+        "child_care_agency",
+        "home_goods_store",
+        "clothing_store",
+        "service",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Kmart Carousel",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJw0h70ye-MioRyFuYforDDmY",
+      "types": [
+        "department_store",
+        "womens_clothing_store",
+        "furniture_store",
+        "toy_store",
+        "home_improvement_store",
+        "child_care_agency",
+        "home_goods_store",
+        "clothing_store",
+        "service",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Kmart Maddington",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJXRrAYOCVMioRlwbxXKYKdAc",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Perth Hindu Temple",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJh1LnyCm8MioRIEfbQ7bwBB0",
+      "types": [
+        "transit_station",
+        "train_station",
+        "bus_stop",
+        "transit_stop",
+        "transportation_service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Cannington",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJXcoNoy28MioRq_H_5cWOBvM",
+      "types": [
+        "supermarket",
+        "grocery_store",
+        "meal_takeaway",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Woolworths Cannington",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ6erkwvu9MioRraSO-s4iMAI",
+      "types": [
+        "gym",
+        "sports_school",
+        "sports_complex",
+        "sports_activity_location",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Revo Fitness - Cannington",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJNxFduYC9MioR3GnEaS3BZCc",
+      "types": [
+        "sporting_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "4WD Supacentre Canning Vale",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJY1lJSZcNrwERvGDu2X1lahE",
+      "types": [
+        "golf_course",
+        "athletic_field",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "displayName": {
+        "text": "Whaleback Golf Course",
+        "languageCode": "en"
+      }
+    }
+  ]
+}
