@@ -57,7 +57,7 @@
     var css = [
       '#' + CONTAINER_ID + '{' + rootVars + ';font-family:var(--gr-font-family)}',
 
-      '.gr-grid{display:grid;grid-template-columns:var(--gr-columns);gap:var(--gr-gap);margin:0;padding:0;list-style:none}',
+      '.gr-grid{display:grid;grid-template-columns:var(--gr-columns);gap:var(--gr-gap);margin:0;padding:0;list-style:none;justify-content:center}',
 
       '.gr-card{background:var(--gr-card-bg);border-radius:var(--gr-card-radius);box-shadow:var(--gr-card-shadow);padding:var(--gr-card-padding);display:flex;flex-direction:column;gap:.75rem;box-sizing:border-box}',
 
