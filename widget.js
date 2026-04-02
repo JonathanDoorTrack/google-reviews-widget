@@ -29,7 +29,7 @@
   // ── CSS variables (override via :root or cfg.cssVars) ──────────────────────
   var CSS_VARS = Object.assign({
     '--gr-font-family'    : 'inherit',
-    '--gr-columns'        : 'repeat(auto-fill, minmax(280px, 1fr))',
+    '--gr-columns'        : 'repeat(auto-fit, minmax(280px, 360px))',
     '--gr-gap'            : '1.25rem',
     '--gr-card-bg'        : '#ffffff',
     '--gr-card-radius'    : '12px',
