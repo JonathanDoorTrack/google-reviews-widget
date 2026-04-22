@@ -109,6 +109,12 @@ app.get('/reviews', (req, res) => {
       error: 'Reviews not yet available. Cache is warming up — try again shortly.',
     });
   }
+
+  const age = Date.now() - new Date(cache.updatedAt).getTime();
+  if (age > 24 * 60 * 60 * 1000) {
+    refreshCache().catch(() => {});
+  }
+
   res.json(cache);
 });
 
